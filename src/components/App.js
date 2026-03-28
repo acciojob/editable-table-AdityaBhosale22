@@ -1,5 +1,5 @@
 import React from "react";
-import EditableTable from "./components/EditableTable";
+import EditableTable from "./EditableTable";
 import './../styles/App.css';
 
 const App = () => {
